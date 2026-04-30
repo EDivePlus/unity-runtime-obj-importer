@@ -1,0 +1,27 @@
+{
+  "name": "com.ediveplus.objimporter",
+  "version": "1.0.0",
+  "displayName": "Runtime OBJ Importer (URP)",
+  "description": "Runtime/editor Wavefront OBJ + MTL importer with built-in BMP/TGA/JPG/PNG/DDS/CRN texture loading. Materials are created against the URP Lit shader. Fork of Dummiesman's importer.\n\nNote: in Player builds, add 'Universal Render Pipeline/Lit' to Always Included Shaders (Project Settings > Graphics).",
+  "unity": "2022.3",
+  "keywords": [
+    "obj",
+    "wavefront",
+    "importer",
+    "runtime",
+    "mesh",
+    "urp"
+  ],
+  "author": {
+    "name": "EDivePlus",
+    "url": "https://github.com/EDivePlus"
+  },
+  "license": "MIT",
+  "samples": [
+    {
+      "displayName": "Runtime Import Samples",
+      "description": "Example MonoBehaviours and scenes that load an OBJ from a file path or stream at runtime.",
+      "path": "Samples~/RuntimeImport"
+    }
+  ]
+}

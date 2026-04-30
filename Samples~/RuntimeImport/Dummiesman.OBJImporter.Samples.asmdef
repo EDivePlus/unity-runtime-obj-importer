@@ -1,0 +1,16 @@
+{
+    "name": "Dummiesman.OBJImporter.Samples",
+    "rootNamespace": "Dummiesman.Samples",
+    "references": [
+        "Dummiesman.OBJImporter"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
